@@ -1,0 +1,24 @@
+{
+  "name": "node-push-test",
+  "version": "0.0.1",
+  "description": "This is a test node js application based on AWS JS SDK v3 to access AWS service and to understand SNS workflow.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekram-syed/aws-test.git"
+  },
+  "keywords": [
+    "AWS",
+    "NODE",
+    "SNS"
+  ],
+  "author": "Syed Ekram Uddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekram-syed/aws-test/issues"
+  },
+  "homepage": "https://github.com/ekram-syed/aws-test#readme"
+}
